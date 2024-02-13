@@ -24,3 +24,16 @@ A curated collection of the awesome work the Caravan Community is doing!
 [config.ml](https://github.com/ocaml-sys/config.ml) - Conditional compilation via attributes for OCaml
 
 [OCrab](https://github.com/0xGlitchbyte/OCrab) - A Rust to OCaml source to source transpiler
+
+[server-reason-react](https://github.com/ml-in-barcelona/server-reason-react) - All tools needed to server render ReasonReact components with OCaml natively
+
+[styled-ppx](https://github.com/davesnx/styled-ppx) - Type-safe styled components for ReScript and Melange with type-safe CSS
+
+[html_of_jsx](https://github.com/davesnx/html_of_jsx) - Render HTML with JSX
+
+[create-melange-app](https://github.com/dmmulroy/create-melange-app) - The fastest, friendliest, and most delightful way to get started with OCaml, ReasonML, and Melange, geared towards JavaScript and TypeScript developers
+
+[melange-ffi](https://github.com/dmmulroy/melange-ffi) - Write bindings to Melange writting TypeScript (or JavaScript) 
+
+
+
