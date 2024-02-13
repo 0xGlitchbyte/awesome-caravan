@@ -1,4 +1,4 @@
-# awesome-caravan
+# Awesome Caravan
 A curated collection of the awesome work the Caravan Community is doing!
 
 [Riot](https://github.com/riot-ml/riot) - An actor-model multi-core scheduler for OCaml 5
